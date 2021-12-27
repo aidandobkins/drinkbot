@@ -8,3 +8,5 @@ and you should see the drink ordering screen. Many settings can be adjusted in t
 corresponding python file.
 
 In the settings the drink names can be changed, the pumps can be primed or purged, and more.
+
+The Web Server uses bootstrap, as well as some custom CSS, and HTML for individual pages as well as the overall color changing background.
